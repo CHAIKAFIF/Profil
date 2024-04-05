@@ -1,0 +1,36 @@
+body {
+  background-color: #f5f5dc; /* Blanc cassé */
+}
+
+.card {
+  background-color: #f5deb3; /* Beige */
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #e790aa; /* Bleu ciel */
+  width: 4000px;
+  margin: 20px auto;
+  text-align: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.card a img {
+  width: 30px;
+  height: auto;
+}
+
+.card h2 {
+  color: #cc8ea8; /* Orange */
+}
+
+.half-width {
+  width: 400px;
+}
+
+.circle-image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
